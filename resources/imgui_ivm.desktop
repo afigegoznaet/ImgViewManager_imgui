@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Image View Manager (ImGui)
+Comment=A thumbnail based image organizer with a preview
+Type=Application
+Icon=imgui_ivm
+Terminal=false
+Exec=imgui_ivm
+Categories=Graphics;
